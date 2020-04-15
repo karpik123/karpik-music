@@ -1,0 +1,1 @@
+(Get-ChildItem 'G:\CLEAN MUSIC\' -Recurse -Directory).FullName > list.txt
