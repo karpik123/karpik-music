@@ -1,37 +1,111 @@
-## Welcome to GitHub Pages
+## Welcome to Karpik-Music
 
-You can use the [editor on GitHub](https://github.com/karpik123/karpik-music/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karpik123/karpik-music/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(K)NoW-NAME
+A Perfect Circle
+Adam Skorupa & Krzysztof Wierzynkiewicz
+Adam Skorupa & Paweł Błaszczak
+Ai Otsuka
+Alicia Keys
+AMOYAMO
+Amplified
+ANANT-GARDE EYES
+Angus & Julia Stone
+Archive
+Audio Highs
+Babymetal
+Band of Horses
+Base Ball Bear
+Beverly
+Blake Mills
+BRADIO
+Buena Vista Social Club
+Captain Straydum
+Carter Burwell
+Chima
+Christian Kane
+Coldplay
+Darren Korb
+Digital Extremes
+DOES
+EGOIST
+Eminem
+Gareth Coker
+ghostnote
+Gojira
+Guano Apes
+Hearts Grow
+Hitomi Takahashi
+Hitomi Takahashi × BEAT CRUSADERS
+ikimonogakari
+INTERSECTION
+Jay Chou
+Joe Hisaishi
+Junichi Matsumoto
+JUNNA
+Kalafina
+KELUN
+Kenji Kawai
+Kinya Kotani
+Lauren Aquilina
+Lily Chou-Chou
+Linked Horizon
+Lisa Mitchell
+Lynyrd Skynyrd
+Mac Quayle
+Marcin Przybyłowicz
+Michał Lorenc
+monobright
+MYTH & ROID
+nano
+Natsumi Kiyoura
+Nirvana
+Otis Redding
+OxT
+Paramore
+PENGIN
+Periphery
+Pidżama Porno
+Piko
+Plini
+POSSIBILITY
+Priscilla Ahn
+Queen
+RADWIMPS
+Raury
+Red Hot Chili Peppers
+redballoon
+Rodriguez
+Sachi Tainaka
+Sayuri
+serial TV drama
+SHIGI
+Shinedown
+Shiro Sagisu
+SID
+Snowkel
+SPYAIR
+Steel Panther
+sumika
+Takatsugu Murumatsu & Priscilla Ahn
+Terry Lin
+The Features
+the GazettE
+The Offspring
+The Rodeo Carburettor
+Tommy heavenly6
+Tori Amos
+Toru Kitajima
+Tsuneyoshi Saito
+Two Feathers
+Utada Hikaru
+Various Artists
+Vickeblanka
+Wagakki Band
+Weezer
+Woodkid
+Yelawolf
+YO-KING
+Yoko Kanno
+Yousei Teikoku
+Yugo Kanno
+Yuki Kajiura
